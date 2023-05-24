@@ -297,7 +297,7 @@ const projects = [
 		source_code_link: 'https://iisaawards.com/',
 	},
 	{
-		name: 'MarathiMusicVideoAwards.com',
+		name: 'Marathi Music Video Awards',
 		description:
 			'A Music video awards show website build for client in Wordpress.',
 		tags: [
